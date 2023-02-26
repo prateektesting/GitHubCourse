@@ -1,10 +1,10 @@
 package Pages;
 
-public class HomePage {
+public class CartPage {
 
 	public static void main(String[] args) {
 
-		System.out.println("Cart page");
+		System.out.println("Hello Home page");
 
 	}
 
