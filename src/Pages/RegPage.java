@@ -9,6 +9,8 @@ public class RegPage {
 		String un = "admin";
 		String pwd = "admin";
 		System.out.println("Logged in");
+		
+		String name="reg";
 
 	}
 
